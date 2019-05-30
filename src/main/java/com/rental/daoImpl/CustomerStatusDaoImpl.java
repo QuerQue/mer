@@ -26,4 +26,4 @@ public class CustomerStatusDaoImpl implements CustomerStatusDao {
         List<CustomerStatus> allCustomerStatuses = crit.list();
         return allCustomerStatuses;
     }
-}
+}  
