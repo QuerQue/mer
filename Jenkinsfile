@@ -1,10 +1,23 @@
 pipeline {
    agent any
       stages {
-         stage('Test') {
+         stage('Preparing environment') {
+         }
+         stage('Clone SCM') {
+         }
+         stage('Build') {
+         }
+         stage('Unit Tests') {
             steps {
-               echo 'Hello World ...'
+               echo 'Unit Tests'
             }
+         }
+         stage('Integration Tests') {
+            steps {
+               echo 'Integration Tests'
+            }
+         }
+         stage('Sending results') {
          }
       }
 }
