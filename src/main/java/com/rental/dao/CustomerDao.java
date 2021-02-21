@@ -1,6 +1,6 @@
 package com.rental.dao;
 
-import java.util.Date;
+import java.util.Date;  
 import java.util.List;
 
 import com.rental.entity.Customer;
