@@ -10,6 +10,6 @@ public interface CustomerDao {
     Customer getCustomerById(Integer customerId);
     void updateCustomer(Customer customer);
     void createCustomer(Customer customer);
-    void deactivateCustomer(Integer customerId);
+    void deactivateCustomer(Integer customerId);    
 
 }
