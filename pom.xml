@@ -19,7 +19,7 @@
         <servlet-api-version>2.5</servlet-api-version>
         <jsp-api-version>2.1</jsp-api-version>
         <jstl-version>1.2</jstl-version>
-        <junit-version>4.7</junit-version>
+        <junit-version>4.13.1</junit-version>
         <maven-eclipse-version>2.9</maven-eclipse-version>
         <maven-compiler-version>2.5.1</maven-compiler-version>
         <exec-maven-version>1.2.1</exec-maven-version>
