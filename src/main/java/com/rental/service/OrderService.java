@@ -2,7 +2,7 @@ package com.rental.service;
 
 import java.util.Date;
 import java.util.List;
-
+   
 import com.rental.entity.Order;
 
 public interface OrderService {
