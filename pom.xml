@@ -8,7 +8,7 @@
     <properties>  
         <java-version>1.8</java-version> 
         <spring-version>4.2.5.RELEASE</spring-version>
-        <spring-security-version>4.0.4.RELEASE</spring-security-version>
+        <spring-security-version>5.2.10.RELEASE</spring-security-version>
         <hibernate-version>5.1.0.Final</hibernate-version>
         <jdbc-version>11.2.0</jdbc-version> 
         <log4j-version>1.2.15</log4j-version>
